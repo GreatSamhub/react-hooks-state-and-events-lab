@@ -37,7 +37,7 @@ span[role="image"] {
   text-shadow: 0 0 0 black;
 }
 
-.App.dark {
+.appClassName {
   --font-color: rgb(255, 255, 255);
   --background: rgb(50, 50, 50);
   --background--light: rgb(80, 80, 80);
